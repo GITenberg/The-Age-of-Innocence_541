@@ -1,5 +1,8 @@
 _repo: The-Age-of-Innocence_541
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -24,6 +27,8 @@ description: "The Age of Innocence is Edith Wharton's twelfth novel, initially s
   \ The story is set in upper-class New York City in the 1870s, during the Gilded\
   \ Age. Wharton wrote the book in her 50s, after she had established herself as a\
   \ strong author with publishers clamoring for her work.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/541#The-Age-of-Innocence
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Movie Books
